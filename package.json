@@ -1,0 +1,22 @@
+{
+  "name": "webspider",
+  "version": "0.0.0",
+  "description": "Web Crawler",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "webspider"
+  },
+  "author": "Maxime Le Gac",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "async": "~0.2.9",
+    "lodash": "~2.3.0",
+    "request": "~2.27.0",
+    "winston": "~0.7.2",
+    "express": "~3.4.4"
+  }
+}
